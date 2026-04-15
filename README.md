@@ -1,4 +1,4 @@
-# Todo App — DevOps CI/CD
+# To-do List — DevOps CI/CD
 
 Aplicacion web de lista de tareas. El proyecto cubre el ciclo completo de DevOps: desarrollo local, pruebas unitarias, contenedorizacion con Docker y despliegue automatico en produccion mediante GitHub Actions.
 
